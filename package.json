@@ -1,0 +1,12 @@
+{
+  "name": "c4k-package",
+  "version": "1.0.4",
+  "description": "",
+  "main": "./lib/init.js",
+  "bin": {
+    "c4k": "./bin/index.js"
+  },
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
